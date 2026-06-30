@@ -1,40 +1,20 @@
-body{
-font-family:Arial,sans-serif;
-margin:0;
-padding:0;
-background:#f5f7fa;
-color:#222;
+header img{
+    display:block;
+    margin:0 auto 15px;
 }
 
-header{
-background:#0B1F3A;
-color:white;
-text-align:center;
-padding:40px 20px;
+.btn{
+    margin:10px;
+    padding:12px 20px;
+    border-radius:8px;
+    background:#D4AF37;
+    color:#0B1F3A;
+    font-weight:bold;
 }
 
-header p{
-color:#D4AF37;
-}
-
-nav{
-background:#D4AF37;
-padding:15px;
-text-align:center;
-}
-
-nav a{
-color:#0B1F3A;
-text-decoration:none;
-margin:15px;
-font-weight:bold;
-}
-
-.hero{
-padding:60px 20px;
-text-align:center;
-background:white;
-}
+.btn:hover{
+    background:white;
+}}
 
 .btn{
 display:inline-block;
